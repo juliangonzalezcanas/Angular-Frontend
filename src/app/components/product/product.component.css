@@ -1,0 +1,22 @@
+.master-wrapper{
+    display: grid;
+   
+
+    border: 0.5px solid;
+}
+
+.main-section{
+
+}
+
+.additional-info{
+
+}
+
+strong > p{
+    margin-bottom: 5px;
+}
+
+p{
+    margin: 0px 0px 10px 5px;
+}
